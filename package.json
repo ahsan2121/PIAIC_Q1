@@ -1,0 +1,11 @@
+{
+  "name": "ahsanpiaic",
+  "version": "1.0.0",
+  "description": "My name is Rana Ahsan Ansar.This repository is for my PIAIC Exercies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rana Ahsan Ansar",
+  "license": "ISC"
+}
